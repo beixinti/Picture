@@ -1,3 +1,2 @@
 # Picture
-## 说明
-个人图床
+![](https://img.shields.io/badge/This%20is%20a-Image%20Hosting-green)
