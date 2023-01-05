@@ -1,3 +1,3 @@
 # Picture
 
-> © 2023 Jiahao Fu, All rights reserved.  
+> © 2023 J. F. , All rights reserved.  
